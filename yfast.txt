@@ -1,0 +1,8 @@
+x_area_scanner=5.5
+y_area_scanner=5.5
+run_on_hold_key=left_shift
+player_outline_color=yellow
+sensitivity_for_color=65
+constant_time_lock=100
+dynamic_time_lock=false
+action_key=o
